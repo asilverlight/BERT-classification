@@ -1,0 +1,33 @@
+[2024-07-21 10:57:22] Epoch 1, Loss: 0.6617, Val Accuracy: 0.6250
+[2024-07-21 10:57:30] Epoch 2, Loss: 0.5099, Val Accuracy: 0.6500
+[2024-07-21 10:57:38] Epoch 3, Loss: 0.3341, Val Accuracy: 0.8000
+[2024-07-21 10:57:46] Epoch 4, Loss: 0.1459, Val Accuracy: 0.7750
+[2024-07-21 10:57:54] Epoch 5, Loss: 0.0734, Val Accuracy: 0.8250
+[2024-07-21 11:00:33] Epoch 1, Loss: 0.7018, Val Accuracy: 0.6750
+[2024-07-21 11:00:41] Epoch 2, Loss: 0.6094, Val Accuracy: 0.6750
+[2024-07-21 11:00:49] Epoch 3, Loss: 0.4125, Val Accuracy: 0.5750
+[2024-07-21 11:00:57] Epoch 4, Loss: 0.1887, Val Accuracy: 0.8750
+[2024-07-21 11:01:05] Epoch 5, Loss: 0.0530, Val Accuracy: 0.7750
+[2024-07-21 13:21:02] Epoch 1, Loss: 0.7011, Val Accuracy: 0.6250
+[2024-07-22 17:38:55] Epoch 1, Loss: 0.4676, Val Accuracy: 0.8892
+[2024-07-22 17:43:01] Epoch 2, Loss: 0.1860, Val Accuracy: 0.9233
+[2024-07-22 17:47:08] Epoch 3, Loss: 0.0998, Val Accuracy: 0.9525
+[2024-07-22 17:51:15] Epoch 4, Loss: 0.0573, Val Accuracy: 0.9483
+[2024-07-22 17:55:20] Epoch 5, Loss: 0.0549, Val Accuracy: 0.9558
+
+[2024-07-23 15:27:10] Epoch 1, Loss: 0.6001, Val Accuracy: 0.8680, Experiment type: one answer
+[2024-07-23 15:29:44] Epoch 2, Loss: 0.2910, Val Accuracy: 0.8707, Experiment type: one answer
+[2024-07-23 15:32:18] Epoch 3, Loss: 0.1469, Val Accuracy: 0.8933, Experiment type: one answer
+[2024-07-23 15:34:51] Epoch 4, Loss: 0.0684, Val Accuracy: 0.8800, Experiment type: one answer
+[2024-07-23 15:37:25] Epoch 5, Loss: 0.0311, Val Accuracy: 0.9027, Experiment type: one answer
+
+Test Accuracy: 0.8933333333333333
+
+[2024-07-28 18:07:20] Epoch 1, Loss: 0.1136, Val Accuracy: 0.9657, Experiment type: wow dataset with data corruption
+[2024-07-28 18:18:57] Epoch 2, Loss: 0.0244, Val Accuracy: 0.9907, Experiment type: wow dataset with data corruption
+[2024-07-28 18:30:34] Epoch 3, Loss: 0.0178, Val Accuracy: 0.9880, Experiment type: wow dataset with data corruption
+[2024-07-28 18:42:12] Epoch 4, Loss: 0.0108, Val Accuracy: 0.9860, Experiment type: wow dataset with data corruption
+[2024-07-28 18:53:49] Epoch 5, Loss: 0.0115, Val Accuracy: 0.9887, Experiment type: wow dataset with data corruption
+
+[2024-07-28 18:54:23] Test Accuracy: 0.991
+
