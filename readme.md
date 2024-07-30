@@ -10,3 +10,5 @@ generate_qa_one_answer.py是针对数据集做inference得到answer的代码
 运行分类代码：bash generate_and_BERT.sh
 
 llama-3-8b-instruct.py、mistral……、qwen2-7b……是每个模型单独做inference的代码
+
+注意，部分python版本无法导入mistral_inference包，于是本项目将该包需要的部分直接整理了出来
